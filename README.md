@@ -28,21 +28,7 @@ Here are some ideas to get you started:
 ---
 
 ## 🧰 Toolbox
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="SASS" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="TailwindCSS" width="50" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="BS" width="50" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="50" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" alt="XD" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VScode" width="50" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain-wordmark.svg" alt="heroku" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="vercel" width="50" height="60"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" alt="wp" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="SASS" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="TailwindCSS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="BS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" alt="XD" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VScode" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain-wordmark.svg" alt="heroku" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="vercel" width="50" height="60"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="60"/><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="60"/><img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" alt="wp" width="50" height="60"/> 
 
 ---
 
@@ -56,6 +42,7 @@ Here are some ideas to get you started:
 ---
 
 ### 👯 I’m looking to collaborate on [Hadith_API](https://github.com/RakibRahman/hadith-api)
+### 🔭 I’m currently working on building a university website clone
 
 ---
 
