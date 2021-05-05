@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> 
 
 ---
-
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" alt="XD" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VScode" width="50" height="50"/> 
@@ -36,21 +35,16 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/>
 
-
 ---
 
 📫 How to reach me:
 </br>
 <a href="https://www.facebook.com/rakib.rahman2012/"><img src="https://img.shields.io/badge/facebook-%230067B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a>
 <a href="https://www.linkedin.com/in/rakib-talukder-04666519a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-![Twitter URL](https://img.shields.io/twitter/url?logo=ra&logoColor=green&style=social&url=https%3A%2F%2Ftwitter.com%2FRakibRahman06)
-
 <a href="https://twitter.com/RakibRahman06"><img src="https://img.shields.io/twitter/url?logo=ra&logoColor=green&style=social&url=https%3A%2F%2Ftwitter.com%2FRakibRahman06" height=25></a>
-
 <a href="https://t.me/rakibrahman6"><img src="https://img.shields.io/badge/telegram-%230075A5.svg?&style=for-the-badge&logo=telegram&logoColor=white" height=25></a>
 <a href="mailto:md.rr.talukder@gmail.com"><img src="https://img.shields.io/badge/email-%23000.svg?&style=for-the-badge&logo=website&logoColor=white" height=25></a>
 
-</br>
 
 ---
 
