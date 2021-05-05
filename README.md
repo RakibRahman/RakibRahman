@@ -46,4 +46,11 @@ Here are some ideas to get you started:
 
 ---
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=RakibRahman&show_icons=true&theme=tokyonight)&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RakibRahman&layout=compact)
+---
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<RakibRahman>&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Rakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=<RakibRahman>&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
