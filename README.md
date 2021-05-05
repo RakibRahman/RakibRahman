@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 -->
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Rakib Rahman!
 
-<p>I’m a web developer who is passionate about <strong>front-end</strong> based in the Bangladesh.I love to craft fun,scalable and interactive things with code.I also talk & write about those things on the internet.</p>
+<p>I’m a web developer who is passionate about <strong>front-end</strong> based in the Bangladesh.I love to craft *fun*,*scalable* and *interactive* things with code.I also talk & write about those things on the internet.</p>
 
-📫 How to reach me:
+## 📫 How to reach me:
 </br>
 <a href="https://www.facebook.com/rakib.rahman2012/"><img src="https://img.shields.io/badge/facebook-%230067B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a>
 <a href="https://www.linkedin.com/in/rakib-talukder-04666519a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ---
 
-🧰 Toolbox
+## 🧰 Toolbox
 </br>
 </br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height="50"/> 
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 ---
 
-📘 Latest Blog Articles:
+## 📘 Latest Blog Articles:
 
 - [JavaScript Array Methods Cheat Sheet with brief explanation](https://dev.to/rakibrahman/javascript-array-methods-cheat-sheet-with-brief-explanation-2km1)
 - [The Set() Object in JavaScript - A Nimble Introduction](https://dev.to/rakibrahman/the-set-object-in-javascript-a-nimble-introduction-1dm1)
@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 ---
 
-👯 I’m looking to collaborate on [Hadith_API](https://github.com/RakibRahman/hadith-api)
+### 👯 I’m looking to collaborate on [Hadith_API](https://github.com/RakibRahman/hadith-api)
 
 ---
 
