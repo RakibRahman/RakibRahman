@@ -41,10 +41,10 @@ Here are some ideas to get you started:
 <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VScode" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain-wordmark.svg" alt="heroku" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="vercel" width="50" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" alt="wp" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="vercel" width="50" height="60"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="60"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="60"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" alt="wp" width="50" height="60"/> 
 
 
 ---
@@ -55,6 +55,8 @@ Here are some ideas to get you started:
 - [The Set() Object in JavaScript - A Nimble Introduction](https://dev.to/rakibrahman/the-set-object-in-javascript-a-nimble-introduction-1dm1)
 
 ▶ [...more blog articles](https://dev.to/rakibrahman)
+
+---
 
 👯 I’m looking to collaborate on [Hadith_API](https://github.com/RakibRahman/hadith-api)
 
