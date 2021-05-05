@@ -44,10 +44,17 @@ Here are some ideas to get you started:
 <img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="vercel" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" alt="wp" width="50" height="50"/> 
+
 
 ---
 
+📘 Latest Blog Articles:
 
+- [JavaScript Array Methods Cheat Sheet with brief explanation](https://dev.to/rakibrahman/javascript-array-methods-cheat-sheet-with-brief-explanation-2km1)
+- [The Set() Object in JavaScript - A Nimble Introduction](https://dev.to/rakibrahman/the-set-object-in-javascript-a-nimble-introduction-1dm1)
+
+▶ [...more blog articles](https://dev.to/rakibrahman)
 
 👯 I’m looking to collaborate on [Hadith_API](https://github.com/RakibRahman/hadith-api)
 
