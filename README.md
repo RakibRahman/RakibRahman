@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="BS" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> 
 
----
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" alt="XD" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VScode" width="50" height="50"/> 
