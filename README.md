@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 <a href="https://t.me/rakibrahman6"><img src="https://img.shields.io/badge/telegram-%230075A5.svg?&style=for-the-badge&logo=telegram&logoColor=white" height=25></a>
 <a href="mailto:md.rr.talukder@gmail.com"><img src="https://img.shields.io/badge/email-%23000.svg?&style=for-the-badge&logo=website&logoColor=white" height=25></a>
 
+https://www.codewars.com/users/RakibRahman/badges/micro
+
 ---
 
 ## 🧰 Toolbox
