@@ -56,3 +56,5 @@ Here are some ideas to get you started:
 
 [![Rakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=RakibRahman&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
+![Visitor Count](https://profile-counter.glitch.me/{RakibRahman}/count.svg)
+
