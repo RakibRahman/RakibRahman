@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Rakib Rahman!
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Rakib Rahman! 
+
+![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=49D3DF&lines=I'm+a+Frontend+Web+Developer;)
 
 <p>I’m a web developer who is passionate about <strong>front-end</strong>.I love to craft <em>fun</em>  , <em>scalable</em> and <em>interactive</em> things with code.I also talk & write about those things on the internet.</p>
 
