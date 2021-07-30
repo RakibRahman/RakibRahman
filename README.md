@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 ### 👯 I’m looking to collaborate on [Hadith_API](https://github.com/RakibRahman/hadith-api)
 ### 🔭 I’m currently working on building a university website clone
-
+### 🌱 I’m currently learning DSA & trying to solve as many problems as I can.
 ---
 
 ---
