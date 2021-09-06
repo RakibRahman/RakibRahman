@@ -58,6 +58,8 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RakibRahman&hide=java,html,css&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Rakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=RakibRahman&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=RakibRahman)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RakibRahman)
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/{RakibRahman}/count.svg) -->
 
