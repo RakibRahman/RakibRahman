@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Rakib Rahman! 
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Rakibur Rahman Talukder! You can call me Rakib. 
 
-![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=49D3DF&lines=I'm+a+Frontend+Developer;...Blogger;...Problem+Solver)
+<!-- ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=49D3DF&lines=I'm+a+Frontend+Developer;...Blogger;...Problem+Solver) -->
 
 
 <p>I’m a web developer who is impassioned about <strong>front-end</strong>.I love to craft <em>fun</em>  , <em>scalable</em> and <em>interactive</em> things with code.I also talk & write about those things on the internet.</p>
@@ -47,8 +47,9 @@ Here are some ideas to get you started:
 ---
 
 ### 👯 I’m looking to collaborate on [Hadith_API](https://github.com/RakibRahman/hadith-api)
-### 🔭 I’m currently working on building a university website clone
-### 🌱 I’m currently learning DSA & trying to solve as many problems as I can.
+### 🔭 I’m currently working on building crafting my portfolio.
+### 🌱 I’m currently learning `TypeScript`
+###  🥅 This Year Goal: Mastering `React.js`
 ---
 
 ---
