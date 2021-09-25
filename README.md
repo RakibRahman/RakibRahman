@@ -63,6 +63,7 @@ Here are some ideas to get you started:
 [![Rakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=RakibRahman&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=RakibRahman)  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RakibRahman)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RakibRahman)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/{RakibRahman}/count.svg) -->
 
