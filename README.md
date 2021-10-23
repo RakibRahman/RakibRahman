@@ -44,6 +44,11 @@ Here are some ideas to get you started:
 - [JavaScript Array Methods Cheat Sheet with brief explanation](https://dev.to/rakibrahman/javascript-array-methods-cheat-sheet-with-brief-explanation-2km1)
 - [The Set() Object in JavaScript - A Nimble Introduction](https://dev.to/rakibrahman/the-set-object-in-javascript-a-nimble-introduction-1dm1) -->
 <!-- BLOG-POST-LIST:START -->
+- [👑 Create a secure Chat Application with React Hooks, Firebase and Seald 🔐](https://dev.to/viclafouch/create-a-secure-chat-application-with-react-hooks-firebase-and-seald-2bc1)
+- [🍿 Publish your own ESLint / Prettier config for React Projects on NPM 📦](https://dev.to/viclafouch/publish-your-own-eslint-prettier-config-for-react-projects-on-npm-g3p)
+- [🤝 Promise.allSettled() VS Promise.all() in JavaScript 🍭](https://dev.to/viclafouch/promise-allsettled-vs-promise-all-in-javascript-4mle)
+- [Share your Portfolio here 📣](https://dev.to/viclafouch/share-your-portfolio-here-3hgg)
+- [📦 GitHub Profile: The RIGHT Way to Show your latest DEV articles + BONUS 🎁](https://dev.to/viclafouch/github-profile-the-right-way-to-show-your-latest-dev-articles-bonus-398m)
 <!-- BLOG-POST-LIST:END -->
 
 
