@@ -39,10 +39,13 @@ Here are some ideas to get you started:
 <a href="mailto:md.rr.talukder@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25 /></a>
 <a href="https://www.codewars.com/users/RakibRahman"><img src="https://www.codewars.com/users/RakibRahman/badges/large" height=25></a>
 
-## 📘 Latest Blog Articles:
-
+## 📘 Latest Articles:
+<!-- 
 - [JavaScript Array Methods Cheat Sheet with brief explanation](https://dev.to/rakibrahman/javascript-array-methods-cheat-sheet-with-brief-explanation-2km1)
-- [The Set() Object in JavaScript - A Nimble Introduction](https://dev.to/rakibrahman/the-set-object-in-javascript-a-nimble-introduction-1dm1)
+- [The Set() Object in JavaScript - A Nimble Introduction](https://dev.to/rakibrahman/the-set-object-in-javascript-a-nimble-introduction-1dm1) -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 ▶ [...more blog articles](https://dev.to/rakibrahman)
 
