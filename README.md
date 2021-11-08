@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 - [The Set() Object in JavaScript - A Nimble Introduction](https://dev.to/rakibrahman/the-set-object-in-javascript-a-nimble-introduction-1dm1) -->
 <!-- BLOG-POST-LIST:START -->
 - [JavaScript Array Methods Cheat Sheet with brief explanation.](https://dev.to/rakibrahman/javascript-array-methods-cheat-sheet-with-brief-explanation-2km1)
-- [The Set() Object in JavaScript - A Nimble Introduction](https://dev.to/rakibrahman/the-set-object-in-javascript-a-nimble-introduction-1dm1)
+- [The Set&lpar;&rpar; Object in JavaScript - A Nimble Introduction](https://dev.to/rakibrahman/the-set-object-in-javascript-a-nimble-introduction-1dm1)
 <!-- BLOG-POST-LIST:END -->
 
 
