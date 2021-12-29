@@ -67,9 +67,11 @@ Here are some ideas to get you started:
 [![Rakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=RakibRahman&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=RakibRahman)  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RakibRahman)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@RakibRahman)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@RakibRahman)](https://github.com/anuraghazra/github-readme-stats) -->
 
-
+<a href="https://wakatime.com/@RakibRahman">
+    <img src="https://raw.githubusercontent.com/uiwjs/file-icons/e384633d31ef07cceee07346fbada0aade402e46/icon/wakatime.svg" alt="Rakib's Wakatime Profile" height="30" width="30">
+  </a>
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/{RakibRahman}/count.svg) -->
 
