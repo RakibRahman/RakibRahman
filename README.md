@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 ---
 
 ### 👯 I’m looking to collaborate on [Hadith_API](https://github.com/RakibRahman/hadith-api)
-### 🔭 I’m currently doing pet project `Happy Watch` - a social video sharing site.
+### 🔭 I’m building a pet project named [Happy Watch](https://github.com/RakibRahman/happy-watch) - a social video sharing site.
 ### 🌱 I’m currently learning `Data Structures and Algorithm`
 ###  🥅 This Year Goal: Mastering `React.js with Typescript` & writing more tech content.
 ---
