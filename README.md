@@ -55,8 +55,8 @@ Here are some ideas to get you started:
 
 ### 👯 I’m looking to collaborate on [Hadith_API](https://github.com/RakibRahman/hadith-api)
 ### 🔭 I’m building a pet project named [Happy Watch](https://github.com/RakibRahman/happy-watch) - a social video sharing site.
-### 🌱 I’m currently learning `Python`
-###  🥅 This Year Goal: Learning `Data Structures and Algorithm`,contributing more to open source projects & grow my network.
+### 🌱 I’m currently learning `Python/Django` to embrace the backend.
+###  🥅 This Year's Goal: Learning `backend` technologies, contributing more to open source projects & growing my network.
 ---
 
 ---
