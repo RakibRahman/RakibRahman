@@ -53,9 +53,9 @@ Here are some ideas to get you started:
 
 ---
 
-### 👯 I’m looking to collaborate on [Hadith_API](https://github.com/RakibRahman/hadith-api)
-### 🔭 I’m building a pet project named [Happy Watch](https://github.com/RakibRahman/happy-watch) - a social video sharing site.
-### 🌱 I’m currently learning `Python/Django` to embrace the backend.
+
+### 🌱 I’m currently learning `Node.js/Express.js` to embrace the backend.
+### 🔭 I’m building a fullstack project named [Board Breeze](https://github.com/RakibRahman/board-breeze-backend) - a task manager app.
 ###  🥅 This Year's Goal: Learning `backend` technologies, contributing more to open source projects & growing my network.
 ---
 
