@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 ---
 
 
-### 🌱 I’m currently learning `Node.js/Express.js` to embrace the backend.
+### 🌱 I’m currently learning `kotlin` to embrace the backend.
 ### 🔭 I’m building a fullstack project named [Board Breeze](https://github.com/RakibRahman/board-breeze-backend) - a task manager app.
 ###  🥅 This Year's Goal: Learning `backend` technologies, contributing more to open source projects & growing my network.
 ---
