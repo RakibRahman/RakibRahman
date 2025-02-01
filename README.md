@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 - [JavaScript Array Methods Cheat Sheet with brief explanation](https://dev.to/rakibrahman/javascript-array-methods-cheat-sheet-with-brief-explanation-2km1)
 - [The Set() Object in JavaScript - A Nimble Introduction](https://dev.to/rakibrahman/the-set-object-in-javascript-a-nimble-introduction-1dm1) -->
 <!-- BLOG-POST-LIST:START -->
+-[JavaScript Essentials: Handling Null, Undefined, and Safely Accessing Data with ?? and ?.](https://dev.to/rakibrahman/javascript-essentials-handling-null-undefined-and-safely-accessing-data-with-and--5c6b)
 - [Memoization in JavaScript? And how to apply it to get better code performance.](https://dev.to/rakibrahman/memoization-in-javascript-and-how-to-apply-it-to-get-better-code-performance-5d8k)
 - [JavaScript Array Methods Cheat Sheet with brief explanation.](https://dev.to/rakibrahman/javascript-array-methods-cheat-sheet-with-brief-explanation-2km1)
 - [The Set&lpar;&rpar; Object in JavaScript - A Nimble Introduction](https://dev.to/rakibrahman/the-set-object-in-javascript-a-nimble-introduction-1dm1)
