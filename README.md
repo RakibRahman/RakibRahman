@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - [JavaScript Array Methods Cheat Sheet with brief explanation](https://dev.to/rakibrahman/javascript-array-methods-cheat-sheet-with-brief-explanation-2km1)
 - [The Set() Object in JavaScript - A Nimble Introduction](https://dev.to/rakibrahman/the-set-object-in-javascript-a-nimble-introduction-1dm1) -->
 <!-- BLOG-POST-LIST:START -->
-- [https://dev.to/rakibrahman/understanding-the-single-responsibility-principle-in-solid-57b8](Understanding the Single Responsibility Principle in S.O.L.I.D )
+- [https://dev.to/rakibrahman/understanding-the-single-responsibility-principle-in-solid-57b8](Understanding the Single Responsibility Principle in S.O.L.I.D)
 - [Simplifying React with EventEmitter: Reduce Prop Drilling & Unnecessary Re-renders](https://dev.to/rakibrahman/simplifying-react-with-eventemitter-reduce-prop-drilling-unnecessary-re-renders-3mnk)
 - [Promise.all(), Promise.any(), and More: Handling Multiple Promises in JavaScript](https://dev.to/rakibrahman/promiseall-promiseany-and-more-handling-multiple-promises-in-javascript-32m5)
 - [JavaScript Essentials: Handling Null, Undefined, and Safely Accessing Data with ?? and ?.](https://dev.to/rakibrahman/javascript-essentials-handling-null-undefined-and-safely-accessing-data-with-and--5c6b)
